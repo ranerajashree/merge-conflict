@@ -1,11 +1,11 @@
 pseudo code
 {
-Initial Function()
+Initial Function(1)
 {
   //Sample Code
 }
 
-Initial Security()
+Initial Security(1)
 {
  //Sample Code
 }
